@@ -1,0 +1,13 @@
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\Bin\Debug\ApplicationIcon.png
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\Bin\Debug\Background.png
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\Bin\Debug\testphone.dll
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\Bin\Debug\testphone.pdb
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\obj\Debug\ResolveAssemblyReference.cache
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\obj\Debug\App.g.i.cs
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\obj\Debug\MainPage.g.i.cs
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\obj\Debug\testphone.g.resources
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\obj\Debug\testphone.dll
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\obj\Debug\testphone.pdb
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\Bin\Debug\AppManifest.xaml
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\Bin\Debug\testphone.xap
+c:\users\keino.chang.bk\documents\visual studio 2010\Projects\testphone\testphone\obj\Debug\XapCacheFile.xml
